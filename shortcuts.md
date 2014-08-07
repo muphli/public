@@ -21,3 +21,4 @@
 - **cmd + t**: Neuer Tab
 - **cmd + Linksklick auf Link**: Link in neuem Tab öffnen
 - **cmd + Klick auf Vor-/Zurückbutton**: Nächste oder vorherige Seite in neuem Tab öffnen
+- **cmd + L**: Sprung in Adressleiste
