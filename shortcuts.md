@@ -1,4 +1,7 @@
-**Anmerkung:** Buchstaben werden im Folgenden zur einfacheren Lesbarkeit immer groß geschrieben. Beim Eingeben der Shortcuts müssen Buchstaben aber klein eingegeben werden.
+**Anmerkungen:** 
+
+- Buchstaben werden im Folgenden zur einfacheren Lesbarkeit immer groß geschrieben. Beim Eingeben der Shortcuts müssen Buchstaben aber klein eingegeben werden.
+- Die Tastenkürzel wurden auf einem iMac getestet. Sie funktionieren auf anderen Macs möglicherweise nicht, da entsprechende Tasten fehlen.
 
 *OS X Global*
 
