@@ -17,6 +17,7 @@
 
 - **shift + cmd + rücklöschtaste**: Papierkorb leeren
 - **shift + cmd + N**: Neuer Ordner
+- **cmd + T**: Neuer Tab
 - **alt + leertaste**: Datei mit Quicklook öffnen (Fullscreen)
 - **leertaste**: Datei mit Quicklook öffnen
 
