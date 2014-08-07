@@ -1,24 +1,26 @@
+**Anmerkung:** Buchstaben werden im Folgenden zur einfacheren Lesbarkeit immer groß geschrieben. Beim Eingeben der Shortcuts müssen Buchstaben aber klein eingegeben werden.
+
 *OS X Global*
 
-- **alt + cmd + eject**: Ruhezustand
-- **fn + ctrl + eject**: Herunterfahren
-- **shift + ctrl + eject**: Display ausschalten
+- **alt + cmd + auswerfen**: Ruhezustand
+- **fn + ctrl + auswerfen**: Herunterfahren
+- **shift + ctrl + auswerfen**: Display ausschalten
 - **shift + alt + vol. up / vol. down**: Lautstärke in Viertel-Schritten einstellen
-- **cmd + space**: Spotlight-Suche aktivieren
-- **ctrl + w**: Fenster schließen
-- **ctrl + q**: Anwendung beenden
+- **cmd + leertaste**: Spotlight-Suche aktivieren
+- **ctrl + W**: Fenster schließen
+- **ctrl + Q**: Anwendung beenden
 
 *Finder*
 
-- **shift + cmd + delete**: Papierkorb leeren
-- **shift + cmd + n**: Neuer Ordner
-- **alt + space**: Datei mit Quicklook öffnen (Fullscreen)
-- **space**: Datei mit Quicklook öffnen
+- **shift + cmd + rücklöschtaste**: Papierkorb leeren
+- **shift + cmd + N**: Neuer Ordner
+- **alt + leertaste**: Datei mit Quicklook öffnen (Fullscreen)
+- **leertaste**: Datei mit Quicklook öffnen
 
 *Safari*
 
-- **shift + cmd + left / right**: Nächsten/vorherigen Tab auswählen
-- **cmd + t**: Neuer Tab
-- **cmd + Linksklick auf Link**: Link in neuem Tab öffnen
-- **cmd + Klick auf Vor-/Zurückbutton**: Nächste oder vorherige Seite in neuem Tab öffnen
+- **shift + cmd + links / rechts**: Nächsten/vorherigen Tab auswählen
+- **cmd + T**: Neuer Tab
+- **cmd + linksklick auf link**: Link in neuem Tab öffnen
+- **cmd + klick auf vor-/zurückbutton**: Nächste oder vorherige Seite in neuem Tab öffnen
 - **cmd + L**: Sprung in Adressleiste
